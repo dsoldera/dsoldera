@@ -2,8 +2,6 @@
 
 <p>Welcome to my Github Account! </br> My name is <strong>Danielle Soldera</strong>, I'm a Frontend Developer Girl from <b> São Paulo, Brazil</b>, currently living in <b>Campinas/SP</b>. </p>
 
-https://www.flaticon.com/free-icon/brazil_9906449?term=brazil&page=1&position=5&origin=search&related_id=9906449
-
 <h3>To you know what I love to make code with:</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
