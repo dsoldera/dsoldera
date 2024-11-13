@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my Github Account! </br> My name is <strong>Danielle Soldera</strong>, a Frontend Developer Girl from <b> São Paulo, Brazil</b>, currently living in <b>Campinas/SP</b>. </p>
+<p>Welcome to my Github Account! </br> My name is <strong>Danielle Soldera</strong>, I'm a Frontend Developer Girl from <b> São Paulo, Brazil</b>, currently living in <b>Campinas/SP</b>. </p>
 
 https://www.flaticon.com/free-icon/brazil_9906449?term=brazil&page=1&position=5&origin=search&related_id=9906449
 
