@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to Github Account! </br> My name is Danielle Soldera, a Frontend Developer Girl from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> São Paulo, Brazil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Campinas/SP</b>. </p>
+<p>Welcome to my Github Account! </br> My name is <strong>Danielle Soldera</strong>, a Frontend Developer Girl from <b> São Paulo, Brazil</b>, currently living in <b>Campinas/SP</b>. </p>
+
+https://www.flaticon.com/free-icon/brazil_9906449?term=brazil&page=1&position=5&origin=search&related_id=9906449
 
 <h3>To you know what I love to make code with:</h3>
 <p>
